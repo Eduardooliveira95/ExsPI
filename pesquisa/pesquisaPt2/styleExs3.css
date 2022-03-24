@@ -1,0 +1,33 @@
+body {
+    background: #808080;
+}
+
+.divUm {
+    background: #fdfdfd;
+    height: 500px;
+    width: 50vw;
+    border: 10px dotted black;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.divDois {
+    background: yellow;
+    height: 50px;
+    width: 30%;
+}
+
+.divTres {
+    background: rgb(168, 53, 0);
+    height: 100px;
+    width: 30%;
+}
+
+.divQuatro {
+    background: rgb(0, 255, 0);
+    color: #fdfdfd;
+    font-size: 30px;
+    padding: 50px;
+    margin: 50px 0 0 50px;
+}

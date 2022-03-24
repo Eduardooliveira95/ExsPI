@@ -1,0 +1,19 @@
+body {
+    margin: 0;
+}
+
+.divUm {
+    background: red;
+    width: 50px;
+    height: 50px;
+    border: 2px solid green;
+    margin-top: 100px;
+}
+
+.divDois {
+    background: black;
+    height: 50vh;
+    width: 50vw;
+    border: 10px dashed red;
+    margin: 100px 0 0 100px;
+}

@@ -1,0 +1,20 @@
+.divUm {
+    background: rgb(255, 0, 255);
+    height: 250px;
+    width: 100vw;
+    display: flex;
+    justify-content: center;
+}
+
+.divDois {
+    background: #ff0986;
+    width: 210px;
+    border: 20px solid red;
+}
+
+
+.divTres {
+    background: aqua;
+    height: 88%;
+    width: 30%;
+}

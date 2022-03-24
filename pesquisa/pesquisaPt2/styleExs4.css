@@ -1,0 +1,70 @@
+.divUm {
+    background: rgb(105, 43, 18);
+    border: 10px solid black;
+    height: 40vh;
+    width: 75vw;
+}
+
+.divDois {
+    background: #fdfdfd;
+    border: 10px solid blue;
+    color: blue;
+    font-size: 25px;
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 30px 80px 40px 80px;
+    padding: 90px 0 80px 110px;
+}
+
+.divtres {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    margin-top: 10%;
+}
+
+.divQuatro {
+    background: blue;
+    width: 69vw;
+    margin: 0 0 0 15%;
+
+}
+
+.divCinco {
+    background: rebeccapurple;
+    width: 35vw;
+    margin: 0 0 0 32%;
+}
+
+.divSeis {
+    background: green;
+    width: 59vw;
+    margin: 0 0 0 21%;
+}
+
+.divSete {
+    background: yellow;
+    width: 40vw;
+    margin: 0 0 0 29%;
+}
+
+.divOito {
+    display: flex;
+    flex-direction: row;
+    margin-top: 10%;
+    margin-bottom: 10%;
+}
+
+.divNove {
+    background: red;
+    width: 40vw;
+}
+
+.divDez {
+    background: rgb(0, 78, 74);
+    width: 25vw;
+}
+
+.divOnze {
+    background: rgb(0, 255, 0);
+    width: 35vw;
+}
